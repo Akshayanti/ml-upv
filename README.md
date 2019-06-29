@@ -1,8 +1,6 @@
 ## Table of Contents
 
-1. [How to Use this Document?](#how-to-use-this-document)  
-	1.1 [Offline viewing](#offline-viewing)  
-	1.2 [Online viewing](#online-viewing)  
+1. [Project Objective](#project-objective)  
 2. [Data Source](#data-source)
 3. [Data Visualisation](#data-visualisation)  
 	3.1 [Data Loading and Preprocessing in R](#data-loading-and-preprocessing-in-r)  
@@ -16,21 +14,11 @@
 	5.2 [Performance Evaluation](#performance-evaluation)
 6. [Final Evaluation](#final-evaluation)
 
-## How to Use this Document?
+## Project Objective
 
-This document is made with github-flavored markdown. Here's how it can be viewed in the original intended layout.
+This project was completed as a class project at UPV-EHU in AY 2018-2019. The project directives were to solve some sort of NLP Problem using Machine Learning in R.
 
-### Offline viewing
-
-There's a git repository [here](https://github.com/joeyespo/grip) that allows the markdown files to be viewed locally on LINUX/MacOS, without the need to upload the document anywhere. The installation instructions can be found in the previous link, and the report can be viewed by typing the following command in the terminal:
-
-```grip -b Report.mkd```
-
-Although other Markdown viewers are able to render this document as intended, the links in Table of Contents might not work in them. 
-
-### Online viewing
-
-To view this document online, it can be uploaded as a git gist. Note that this is not the recommended method, unless you plan to upload all the plots as well (since they are read from the local directory of the project).
+With this project, I aimed to work on a classification algorithm to seperate posts into one of the two subreddits. Notice that this was already part of a Kaggle Challenge, where they required the classfication between 1013 subreddits. Another reason for selecting the data was a psychological investigation. For me, the problems in the two subreddits should have been similar, if not starkly similar. However, as the word cloud later reveals it, that's not the case.
 
 ## Data Source
 
