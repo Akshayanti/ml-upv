@@ -18,7 +18,7 @@
 
 This project was completed as a class project at UPV-EHU in AY 2018-2019. The project directives were to solve some sort of NLP Problem using Machine Learning in R.
 
-With this project, I aimed to work on a classification algorithm to seperate posts into one of the two subreddits. Notice that this was already part of a Kaggle Challenge, where they required the classfication between 1013 subreddits. Another reason for selecting the data was a psychological investigation. For me, the problems in the two subreddits should have been similar, if not starkly similar. However, as the word cloud later reveals it, that's not the case.
+With this project, I aimed to work on a classification algorithm to seperate posts into one of the two subreddits. Notice that this was already part of a Kaggle Challenge, where they required the classfication between 1013 subreddits. Another reason for selecting the data was a psychological investigation. For me, the problems in the two subreddits should have been considerably different, as confirmed by the word cloud for the subreddits.
 
 ## Data Source
 
